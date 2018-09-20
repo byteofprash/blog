@@ -7,15 +7,15 @@ permalink: /now/
 
 
 
-* ####  Master Thesis: 
+* :computer: ####  Master Thesis: 
 
 I'm doing my Master Thesis at [TranslaTUM](https://www.translatum.tum.de). Hoping to complete it by the end of April 2019. 
 
-* #### Work student at Sixt: 
+* :computer: #### Work student at Sixt: 
 
 I'm working as a data scientist at Sixt GmBh, Munich. Working on machine learning using python. 
 
-* #### Currently Reading: 
+* :book:  #### Currently Reading: 
 
 Just finished reading [Deep Work: Rules for Focused Success in a Distracted World](https://www.goodreads.com/book/show/25744928-deep-work) by Carl Newport
 
