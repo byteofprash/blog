@@ -25,6 +25,7 @@ When I start to introspect when these thoughts started to cripple inside me, it 
 But how do I know these feelings are because of my syndrome or of something that I actually fail to do?
 
 |  | Problem | Imposter Syndrome | General performance Issues | Why? | Stop | Watchout! |
+|-------|--------|---------|------------------|---------------|-----------------|-------|
 | 1 | Sudden loss of confidence | :heavy_check_mark: |  | The key here is a sudden loss in confidence. Loss in confidence is usually due to multiple reasons. But it is also predominantly due to intimidation and a fear of thinking "Not worthy enough" | :heavy_check_mark: |  |
 | 2 | Comparing yourself to others | :heavy_check_mark: |  |  | :heavy_check_mark: |  |
 | 3 | Worrying about how you are perceived | :heavy_check_mark: |  | I've seen this is seen in someone who is very self conscious and especially someone who is a new environment or in a different culture. There is a need to be "accepted" or be perceived "normal" in the new environment | :heavy_check_mark: |  |
