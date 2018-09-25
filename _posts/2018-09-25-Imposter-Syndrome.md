@@ -34,7 +34,7 @@ But how do I know these feelings are because of my syndrome or of something that
 | 6 | Crippling fear of failure | :heavy_check_mark: |  |  |  |  |
 | 7 | Discounting or not internalising praise | :heavy_check_mark: |  | Definitely due to imposter syndrome. It is extremely important to know your worth, and success -> motivation is a feedback loop. So if you want more success, make sure you internalize praise that feeds in motivation | :heavy_check_mark: |  |
 | 8 | Procrastinating when you usually gravitate to action |  | :heavy_check_mark: | If none of the above are true in your case, then this could be just a performance issue! |  | :heavy_check_mark: |
-
+{:.table-striped}
 
 ### Let's talk about Imposter Syndrome among culture swappers
 #### Hypothesis 1: The white man's burden:
