@@ -16,3 +16,4 @@ permalink: /reading/
 7. Factfulness: Ten Reasons We're Wrong About the World – and Why Things Are Better Than You Think  By Hans Rosling
 8. We should all be feminists
 9. Zero to One. Notes on starups or how to build the future. 
+10. Sapiens: A Brief History of Humankind 
