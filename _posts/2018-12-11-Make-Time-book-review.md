@@ -19,12 +19,12 @@ categories: Book-notes
       - 6. The burner list
       - 7. Run a Personal Sprint
       - 8. Schedule your highlight
-      - 9.Block your calendar
+      - 9. Block your calendar
       - 10. Bulldoze your calendar
       - 11. Flake it till you make it
       - 12. Just say no
       - 13. Design your day
-      - 14.Become a morning person
+      - 14. Become a morning person
       - 15. nighttime is the highlight time
       - 16. Quit when you are done
     - Laser Tactics
