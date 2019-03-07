@@ -15,7 +15,7 @@ I'm doing my Master Thesis at [TranslaTUM](https://www.translatum.tum.de). Hopin
 
 ~~~I'm working as a data scientist at Sixt GmBh, Munich. Working on machine learning using python.~~~
 
-**Update**: Done with Sixt. Only concetrating on the master thesis now
+**Update**: Done with Sixt. Concentrating only on the master thesis.
 
 * #### Currently Reading :book:
 
