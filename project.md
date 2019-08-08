@@ -1,5 +1,5 @@
 ---
-layout: standalone 
+layout: project 
 title: "Projects"
 author: "Prashanth"
 permalink: /project/
