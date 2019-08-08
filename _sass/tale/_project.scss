@@ -1,0 +1,24 @@
+.project{
+	&-grid-container {
+	  display: grid;
+	  grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+	  grid-template-rows: 63px 115px 1fr 1fr;
+	  grid-template-areas: "Header Header Header Header Header" "Title Title Title Title Title" ". Item-1 Item-2 Item-3 ." ". Item-4 Item-5 Item-6 .";
+	}
+
+	&-Header { grid-area: Header; }
+
+	&-Title { grid-area: Title; }
+
+	&-Item-1 { grid-area: Item-1; }
+
+	&-Item-2 { grid-area: Item-2; }
+
+	&-Item3 { grid-area: Item-3; }
+
+	&-Item4 { grid-area: Item-4; }
+
+	&-Item5 { grid-area: Item-5; }
+
+	&-Item6 { grid-area: Item-6; }
+}
