@@ -1,5 +1,5 @@
 .project{
-	&-grid-container {
+	&-list {
 	  display: grid;
 	  grid-template-columns: repeat(auto-fit, minmax(300px, 1fr));
 	  grid-gap: 1rem;
@@ -7,17 +7,17 @@
 //	  grid-template-areas: "Item-1 Item-2 Item3" "Item4 Item5 Item6";
 	}
 
-	&-Item-1 { grid-area: Item-1; }
+//	&-Item-1 { grid-area: Item-1; }
 
-	&-Item-2 { grid-area: Item-2; }
+//	&-Item-2 { grid-area: Item-2; }
 
-	&-Item3 { grid-area: Item3; }
+//	&-Item3 { grid-area: Item3; }
 
-	&-Item4 { grid-area: Item4; }
+//	&-Item4 { grid-area: Item4; }
 
-	&-Item5 { grid-area: Item5; }
+//	&-Item5 { grid-area: Item5; }
 
-	&-Item6 { grid-area: Item6; }
+//	&-Item6 { grid-area: Item6; }
 
 	&-img {
 	    max-width: 100%;
