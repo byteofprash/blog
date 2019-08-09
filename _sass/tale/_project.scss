@@ -3,6 +3,7 @@
 	  display: grid;
 	  grid-template-columns: repeat(auto-fit,minmax(300px, 1fr));
 	  grid-gap: 1rem;
+	  list-style-type: none;
 	}
 
 
@@ -12,4 +13,18 @@
 		object-fit: contain
 	}
 
+	&-Title{
+	    color: $default-shade;
+	    font-family: $blog-heading;
+	    font-size: 4rem;
+	    margin: 1rem 0;
+	    text-align: center;
+	}
+	
+	&-Desc{
+	    color: $default-tint;
+	    font-family: $blog-body;
+	    letter-spacing: 0.5px;
+	    text-align: center;
+	}	
 }
