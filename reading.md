@@ -1,6 +1,6 @@
 ---
 layout: standalone 
-title: "2018 Reading"
+title: "Reading"
 author: "Prashanth"
 permalink: /reading/
 ---
